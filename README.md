@@ -5,7 +5,7 @@
 ---
 
 ## 📸 Превью проекта
-`![Preview](preview.png)`
+![Preview](preview.png)
   
 ---
 
