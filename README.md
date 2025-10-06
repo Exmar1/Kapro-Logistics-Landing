@@ -56,7 +56,7 @@ index.html
 ```
 👨‍💻 Автор
 
-Exmar — Frontend Developer
+Exmar — Fullstack Developer
 
 📧 Telegram: @Exmar1
 
