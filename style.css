@@ -1,7 +1,7 @@
 .container {
 	max-width: 192rem;
 	margin: 0 auto;
-	padding: 0 2rem; /* Добавлен базовый паддинг */
+	padding: 0 2rem; 
 }
 
 .kargo__header {
